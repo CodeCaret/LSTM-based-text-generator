@@ -19,8 +19,7 @@ The model is trained on Shakespeare’s complete works:
 ### 1. Clone the repository:
 
 ```
-git clone <your_repo_url>
-cd text_generator
+git clone https://github.com/CodeCaret/LSTM-based-text-generator
 ```
 
 ### 2. Create a virtual environment and activate it:
